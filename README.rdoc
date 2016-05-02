@@ -1,7 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+New App 
+Subscription based app
+https://frozen-hamlet-98507.herokuapp.com/ 
+https://git.heroku.com/frozen-hamlet-98507.git
 
 Things you may want to cover:
 
